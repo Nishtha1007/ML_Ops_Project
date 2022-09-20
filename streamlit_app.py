@@ -143,7 +143,7 @@ with header:
     with col2:
         st.write("Diabetes is one of the most prevalent chronic diseases worldwide. Detecting diabetes in the early stage will help a patient to get better treatment and lifestyle. In this paper, we built several machine learning models to predict hospital readmission that is within 30 days among diabetic patients. The main idea is to provide a comprehensive data solution to the re-admission problem at the healthcare institutions to embark on a significant improvement in in-patient diabetic care.")
     st.markdown("""# ML Ops Project""")
-    st.markdown('<p class="font11">Welcome to Project</p>',unsafe_allow_html=True)
+    st.markdown('<p class="font11">Predict The Readmission Rate of Diabetic Patients by analyzing the Medical History Data</p>',unsafe_allow_html=True)
     
     
 
