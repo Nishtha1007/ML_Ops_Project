@@ -141,8 +141,12 @@ with header:
         image = Image.open('diabetes.jpg')
         st.image(image, width=380)
     with col2:
-        st.write("Record linkage (also known as data matching, entity resolution, and many other terms) is the task of finding records in a data set that refer to the same entity across different data sources. Record linkage is necessary when joining different data sets based on entities that may or may not share a common identifier, which may be due to differences in record shape, storage location, or curator style or preference.")
-    st.markdown("""# ML OPs Project""")
+        st.write("Diabetes is one of the most prevalent chronic diseases worldwide. Detecting diabetes in the early stage
+will help a patient to get better treatment and lifestyle. In this paper, we built several machine learning
+models to predict hospital readmission that is within 30 days among diabetic patients. The main idea is to
+provide a comprehensive data solution to the re-admission problem at the healthcare institutions to
+embark on a significant improvement in in-patient diabetic care.")
+    st.markdown("""# ML Ops Project""")
     st.markdown('<p class="font11">Welcome to Project</p>',unsafe_allow_html=True)
     
     
